@@ -33,3 +33,5 @@ Simply, Instagram is shit. It blows up your home page with advertisements, peopl
 - Dead simple UI option
 - AI summation
 
+## Credits
+Big thanks to https://github.com/instaloader/instaloader
