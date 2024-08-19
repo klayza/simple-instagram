@@ -1,6 +1,6 @@
 # simple-instagram
 
-### <i>stay up to date on friends without having to go on instagram</i>
+### <i>Stay up to date on friends without having to go on instagram</i>
 <br>
 
 <br>
