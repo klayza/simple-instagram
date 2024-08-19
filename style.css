@@ -111,12 +111,15 @@ body {
   flex-direction: column;
   transition: all 0.3s ease;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  height: 100%; /* Ensure the profile takes up the full height of its container */
-  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  height: 100%;
+  /* Ensure the profile takes up the full height of its container */
+  box-sizing: border-box;
+  /* Include padding and border in the element's total width and height */
 }
 
 .profile-info {
-  flex: 1; /* Allow this section to expand and fill available space */
+  flex: 1;
+  /* Allow this section to expand and fill available space */
 }
 
 .bottom-row {
@@ -126,5 +129,15 @@ body {
   font-size: 0.8rem;
   border-top: 1px solid var(--secondary-color);
   padding-top: 10px;
-  align-items: center; /* Align items vertically in the middle */
+  align-items: center;
+  /* Align items vertically in the middle */
+}
+
+
+.last-updated {
+  font-size: 0.8rem;
+  color: #666;
+  text-align: right;
+  margin-top: 10px;
+  font-style: italic;
 }
